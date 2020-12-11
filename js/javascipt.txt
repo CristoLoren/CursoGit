@@ -5,6 +5,6 @@
     <title>Mi página de prueba</title>
   </head>
   <body>
-    <p>Esta es mi página</p>
+    <p>Esta es mi página. Este es el lenguaje javascript</p>
   </body>
 </html>
